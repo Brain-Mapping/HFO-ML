@@ -3,8 +3,7 @@ This repository involves code and models develeoped as a part of the research pr
 
 Improving epileptogenic zone localization through machine learning and High-Frequency Oscillations – An Intracranial EEG based study
 
-Authors : Bijoy Jose, Arjun Vijayanatha Kurup, Ashok Pillai, Anand Kumar, Siby Gopinath and Harilal Parasuram
-
+Authors : 
 
 Adapted scripts
 
