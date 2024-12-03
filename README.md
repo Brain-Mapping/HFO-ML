@@ -1,8 +1,7 @@
 
 This repository involves code and models develeoped as a part of the research project
 
-Improving epileptogenic zone localization through machine learning and High-Frequency Oscillations – An Intracranial EEG based study
-
+Machine Learning-Based Localization of the Epileptogenic Zone Using High-Frequency Oscillations from SEEG: A Real-World Approach
 Authors : 
 
 Adapted scripts
